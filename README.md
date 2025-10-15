@@ -25,6 +25,6 @@ The project delivered a fully cleaned dataset, a tuned Decision Tree model, and 
 
 # 🗂️ Project's Final Important Chart:
 
-# 💳💸 Tuned Decision Tree Classifier Model's Performance Overview – Bank Deposit Prediction:
+# 💳 Tuned Decision Tree Classifier Model's Performance Overview – 💸Bank Deposit Prediction:
 <img width="1789" height="1225" alt="image" src="https://github.com/user-attachments/assets/74c6584f-50e5-4ae1-bc5a-18085cdfcd23" />
 
